@@ -1,6 +1,8 @@
 # What is this repository?
 This is a pure wiki repository, containing documentation, walkthroughs, tips and tricks and known bugs for Total War Warhammer modding.
 
+The actual wiki can be found [here](http://github.com/tww-modding/wiki/wiki).
+
 It was built and is maintained by the Total War Warhammer modding community, who can be found:
 * Hanging around in [/r/totalwar](http://www.reddit.com/r/totalwar)
 * Rambling in [Discord](https://discord.gg/bA5eNUX)
