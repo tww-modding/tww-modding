@@ -1,13 +1,18 @@
 # What is this repository?
-This is a pure wiki repository, containing documentation, walkthroughs, tips and tricks and known bugs for Total War Warhammer modding.
+This repository represents one persons attempt to collate resources for modding Total War Warhammer.
 
-The actual wiki can be found [here](http://github.com/tww-modding/wiki/wiki).
+Right now it's primary purpose is to contain a Wiki (that will hopefully be expanded with more and more information to help people mod the game in a consistent and compatible way), but might be extended to do other things like track ongoing modding projects.
 
-It was built and is maintained by the Total War Warhammer modding community, who can be found:
+The actual wiki can be found [here](http://github.com/tww-modding/tww-modding/wiki).
+
+The Total War Warhammer modding community can be found in a few places:
 * Hanging around in [/r/totalwar](http://www.reddit.com/r/totalwar)
-* Rambling in [Discord](https://discord.gg/bA5eNUX)
+* Rambling in [Discord - Total War: Warhammer Mods](https://discord.gg/bA5eNUX)
+* Theres another Discord channel as well [Discord - Total Lorehammer](https://discord.gg/s9tnyQT)
+* [TWCenter Forums](http://www.twcenter.net/forums/forumdisplay.php?2197-Total-War-WARHAMMER-Mod-Workshop)
+* Steam Community Group
 
 # Contribution Guidelines
-Its a Github Wiki, so we welcome any contributions. The easiest and self contained contribution is probably a "Walkthrough" or "How-To" article. These can be written by anyone and simply explain how to accomplish some sort of mod, like add a new unit or change some settings.
+On the off chance that people want to contribute to this repository (specifically the Wiki), its pretty standard Git stuff. Clone -> Pull Request -> Merge. At this point only one person has the ability to do things, because the Repository/Organisation is still very new.
 
-Normal contribution process is to clone the wiki locally, create a branch with your changes in it and then make a Pull Request for that branch for people to look at and approve.
+This section will probably be updated if this starts to gain traction.
